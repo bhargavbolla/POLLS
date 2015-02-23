@@ -1,0 +1,13 @@
+li a {
+color: green;
+}
+
+body {
+background: white url("images/background.gif") no-repeat bottom right;
+background-size: 300px 190px;
+}
+
+img {
+padding-left: 0px;
+padding-top: 0px;
+}
